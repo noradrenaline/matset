@@ -1,4 +1,4 @@
-% The Game of Set is made by whoever. This program is made by Nora Tramm.
+% The Game of Set is made by Set Enterprises. This program is made by Nora Tramm.
 
 load('deck.mat')
 h = set_fig;
